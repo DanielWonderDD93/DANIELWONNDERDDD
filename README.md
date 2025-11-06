@@ -1,2 +1,1 @@
-# DANIELWONNDERDDD
-FIN-TEC
+# mini smart library
